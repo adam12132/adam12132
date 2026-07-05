@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Adam
+# 👋 Hi, I'm Adam Arkadan
 
 🚀 Aspiring Developer | Tech Enthusiast  
 📱 Building projects using my phone & laptop  
@@ -35,7 +35,7 @@ You’ll find beginner-friendly projects, experiments, and learning repositories
 ---
 
 ## 📫 Connect With Me
-- GitHub: **@adamarkadan**
+- GitHub: adamarkadan994@gmail.com
 
 ---
 
