@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Adam
 
-<!--
-**adam12132/adam12132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Developer | Tech Enthusiast  
+📱 Building projects using my phone & laptop  
+🌍 Based in Lebanon
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+I'm a motivated beginner developer who enjoys learning new technologies and building simple but meaningful projects.  
+I believe consistency and practice are the key to mastering programming.
+
+---
+
+## 🛠 Tech Stack (Learning & Using)
+- HTML5  
+- CSS3  
+- JavaScript  
+- Git & GitHub  
+- Basics of Programming Logic  
+
+---
+
+## 🎯 Current Goals
+- Improve my coding skills every day  
+- Build real-world beginner projects  
+- Create a strong GitHub portfolio  
+- Learn more about web development & technology  
+
+---
+
+## 📂 Projects
+You’ll find beginner-friendly projects, experiments, and learning repositories on my profile.
+
+---
+
+## 📫 Connect With Me
+- GitHub: **@adamarkadan**
+
+---
+
+⭐ Feel free to explore my repositories and follow my journey!
