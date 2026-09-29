@@ -36,7 +36,7 @@ You’ll find beginner-friendly projects, experiments, and learning repositories
 
 ## 📫 Connect With Me
 - GitHub:adam12132
--  Email:adamarkadan994@gmail.com
+-  Email:(mailto:adamarkadan994@gmail.com)
 -   Insta:adam_ark15
 
 ---
