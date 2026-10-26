@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="180" alt="Robot sticker" />
+</p>
+
+
 # 👋 Hi, I'm Adam Arkadan
 
 🚀 Aspiring Developer | Tech Enthusiast  
