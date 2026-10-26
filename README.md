@@ -2,7 +2,7 @@
 
 🚀 Aspiring Developer | Tech Enthusiast  
 📱 Building projects using my phone & laptop  
-🌍 Based in Lebanon
+🌍 Based in Lebanon & US
 
 ---
 
