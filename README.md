@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="180" alt="Robot sticker" />
+  <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="180" alt="Cute robot sticker" />
 </p>
 
 
