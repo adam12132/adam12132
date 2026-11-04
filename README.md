@@ -54,18 +54,18 @@ You’ll find beginner-friendly projects, experiments, and learning repositories
 
 <div align="center">
   <a href="https://github.com/adam12132" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/github/ffffff" width="52" height="52" alt="GitHub" title="GitHub"
-      style="border-radius:50%; background:#111; padding:12px; margin:0 8px; box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
+    <img src="https://cdn.simpleicons.org/github/181717" width="52" height="52" alt="GitHub" title="GitHub"
+      style="border-radius:50%; background:#fff; padding:12px; margin:0 8px; box-shadow:0 2px 8px rgba(0,0,0,0.12);" />
   </a>
 
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=adamarkadan994@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/gmail/ffffff" width="52" height="52" alt="Gmail" title="Gmail"
-      style="border-radius:50%; background:#111; padding:12px; margin:0 8px; box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
+    <img src="https://cdn.simpleicons.org/gmail/D14836" width="52" height="52" alt="Gmail" title="Gmail"
+      style="border-radius:50%; background:#fff; padding:12px; margin:0 8px; box-shadow:0 2px 8px rgba(0,0,0,0.12);" />
   </a>
 
   <a href="https://instagram.com/adam_ark15" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/instagram/ffffff" width="52" height="52" alt="Instagram" title="Instagram"
-      style="border-radius:50%; background:#111; padding:12px; margin:0 8px; box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="52" height="52" alt="Instagram" title="Instagram"
+      style="border-radius:50%; background:#fff; padding:12px; margin:0 8px; box-shadow:0 2px 8px rgba(0,0,0,0.12);" />
   </a>
 </div>
 
