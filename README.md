@@ -51,9 +51,10 @@ You’ll find beginner-friendly projects, experiments, and learning repositories
 ---
 
 ## 📫 Connect With Me
-- GitHub: [adam12132](https://github.com/adam12132)
-- Email: [adamarkadan994@gmail.com](mailto:adamarkadan994@gmail.com)
-- Instagram: [adam_ark15](https://instagram.com/adam_ark15)
+
+[![GitHub](https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/adam12132)
+[![Email](https://img.shields.io/badge/-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adamarkadan994@gmail.com)
+[![Instagram](https://img.shields.io/badge/-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/adam_ark15)
 
 ---
 
