@@ -52,19 +52,23 @@ You’ll find beginner-friendly projects, experiments, and learning repositories
 
 ## 📫 Connect With Me
 
+## 📫 Connect With Me
+
 <div align="center">
-  <a href="https://github.com/adam12132" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" width="70" height="70" alt="GitHub" style="border-radius:50%; margin:0 8px;" />
+  <a href="https://github.com/adam12132" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/github/ffffff" width="52" height="52" alt="GitHub" title="GitHub"
+      style="border-radius:50%; background:#111; padding:12px; margin:0 8px; box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
   </a>
 
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=adamarkadan994@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="70" height="70" alt="Gmail" style="border-radius:50%; margin:0 8px;" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=adamarkadan994@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/gmail/ffffff" width="52" height="52" alt="Gmail" title="Gmail"
+      style="border-radius:50%; background:#111; padding:12px; margin:0 8px; box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
   </a>
 
-  <a href="https://instagram.com/adam_ark15" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="70" height="70" alt="Instagram" style="border-radius:50%; margin:0 8px;" />
+  <a href="https://instagram.com/adam_ark15" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/instagram/ffffff" width="52" height="52" alt="Instagram" title="Instagram"
+      style="border-radius:50%; background:#111; padding:12px; margin:0 8px; box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
   </a>
 </div>
-
 
 ⭐ Feel free to explore my repositories and follow my journey!
