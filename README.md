@@ -52,8 +52,6 @@ You’ll find beginner-friendly projects, experiments, and learning repositories
 
 ## 📫 Connect With Me
 
-## 📫 Connect With Me
-
 <div align="center">
   <a href="https://github.com/adam12132" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/github/ffffff" width="52" height="52" alt="GitHub" title="GitHub"
@@ -70,5 +68,6 @@ You’ll find beginner-friendly projects, experiments, and learning repositories
       style="border-radius:50%; background:#111; padding:12px; margin:0 8px; box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
   </a>
 </div>
+
 
 ⭐ Feel free to explore my repositories and follow my journey!
