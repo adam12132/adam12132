@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2F,50:0B4C7A,100:12A4E8&height=200&section=header&text=Adam%20Arkadan&fontSize=50&fontColor=36BCF7&animation=fadeIn&fontAlignY=35" alt="Blue animated wave banner with Adam Arkadan's name" />
+
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Developer;Learning+Web+Development;Exploring+Cybersecurity+Ethically;Building+and+learning+every+day" alt="Typing animation: Aspiring Developer, Learning Web Development, Exploring Cybersecurity Ethically, Building and learning every day" />
