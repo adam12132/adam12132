@@ -1,48 +1,73 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="270" alt="Cat wearing glasses and dancing" />
+</p>
+
+# 👋 Hi, I'm Adam Arkadan
+
+🚀 Aspiring Developer | Tech Enthusiast  
+📱 Building projects using my phone & laptop  
+🌍 Based in Lebanon & US  
+
+---
+
+## 💡 About Me
+I'm a motivated beginner developer who enjoys learning new technologies and building simple but meaningful projects.  
+I believe consistency and practice are the key to mastering programming.
+
+I’m also interested in Cyber Security and want to expand my knowledge in digital safety, security concepts, and ethical hacking fundamentals.
+
+---
+
+## 🛠 Tech Stack (Learning & Using)
+- HTML5  
+- CSS3  
+- JavaScript  
+- Git & GitHub  
+- Cyber Security  
+- Basics of Programming Logic  
+
+---
+
+## 🎯 Current Goals
+- Improve my coding skills every day  
+- Learn more about Cyber Security  
+- Build real-world beginner projects  
+- Create a strong GitHub portfolio  
+- Learn more about web development & technology  
+
+---
+
+## 📂 Projects
+You’ll find beginner-friendly projects, experiments, and learning repositories on my profile.
+
+---
+
+## 🔐 Interests
+- Web Development
+- Cyber Security
+- Programming Practice
+- Learning new technologies
+
+---
+
+## 📫 Connect With Me
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,100:36BCF7&height=150&section=header" alt="Blue wave header" />
-
-  <h1>Hi 👋, I'm Adam Arkadan</h1>
-  <h3>Aspiring Developer | Tech Enthusiast</h3>
-  <p>Learning, building, and improving every day.</p>
-</div>
-
----
-
-## 👨‍💻 About Me
-
-- 🌍 Based in **Lebanon and the US**
-- 📱 I build projects using my **phone and laptop**
-- 🌱 Learning **web development and programming fundamentals**
-- 🔐 Interested in **cybersecurity and digital safety**
-- 🚀 Working toward building useful projects and growing my GitHub portfolio
-
----
-
-## 🌐 Let's Connect
-
-<p>
   <a href="https://github.com/adam12132" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/github/181717" width="40" height="40" alt="GitHub" title="GitHub" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:adamarkadan994@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" alt="Email" title="Email" />
-  </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/adam_ark15" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40" alt="Instagram" title="Instagram" />
+    <img src="https://cdn.simpleicons.org/github/181717" width="52" height="52" alt="GitHub" title="GitHub"
+      style="border-radius:50%; background:#fff; padding:12px; margin:0 8px; box-shadow:0 2px 8px rgba(0,0,0,0.12);" />
   </a>
-</p>
 
----
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=adamarkadan994@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/gmail/D14836" width="52" height="52" alt="Gmail" title="Gmail"
+      style="border-radius:50%; background:#fff; padding:12px; margin:0 8px; box-shadow:0 2px 8px rgba(0,0,0,0.12);" />
+  </a>
 
-## 💻 Languages and Tools I'm Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" alt="HTML, CSS, JavaScript, Git, GitHub, and VS Code" />
-</p>
-
----
-
-<div align="center">
-  <p>⭐ Thanks for visiting my profile — feel free to explore my repositories!</p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,100:36BCF7&height=100&section=footer" alt="Blue wave footer" />
+  <a href="https://instagram.com/adam_ark15" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="52" height="52" alt="Instagram" title="Instagram"
+      style="border-radius:50%; background:#fff; padding:12px; margin:0 8px; box-shadow:0 2px 8px rgba(0,0,0,0.12);" />
+  </a>
 </div>
+
+
+⭐ Feel free to explore my repositories and follow my journey!
