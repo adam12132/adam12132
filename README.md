@@ -1,73 +1,83 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="270" alt="Cat wearing glasses and dancing" />
-</p>
-
-# 👋 Hi, I'm Adam Arkadan
-
-🚀 Aspiring Developer | Tech Enthusiast  
-📱 Building projects using my phone & laptop  
-🌍 Based in Lebanon & US  
-
----
-
-## 💡 About Me
-I'm a motivated beginner developer who enjoys learning new technologies and building simple but meaningful projects.  
-I believe consistency and practice are the key to mastering programming.
-
-I’m also interested in Cyber Security and want to expand my knowledge in digital safety, security concepts, and ethical hacking fundamentals.
-
----
-
-## 🛠 Tech Stack (Learning & Using)
-- HTML5  
-- CSS3  
-- JavaScript  
-- Git & GitHub  
-- Cyber Security  
-- Basics of Programming Logic  
-
----
-
-## 🎯 Current Goals
-- Improve my coding skills every day  
-- Learn more about Cyber Security  
-- Build real-world beginner projects  
-- Create a strong GitHub portfolio  
-- Learn more about web development & technology  
-
----
-
-## 📂 Projects
-You’ll find beginner-friendly projects, experiments, and learning repositories on my profile.
-
----
-
-## 🔐 Interests
-- Web Development
-- Cyber Security
-- Programming Practice
-- Learning new technologies
-
----
-
-## 📫 Connect With Me
-
 <div align="center">
-  <a href="https://github.com/adam12132" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/github/181717" width="52" height="52" alt="GitHub" title="GitHub"
-      style="border-radius:50%; background:#fff; padding:12px; margin:0 8px; box-shadow:0 2px 8px rgba(0,0,0,0.12);" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Adam%20Arkadan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Animated wave banner with Adam Arkadan's name" />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Developer;Learning+Web+Development;Exploring+Cybersecurity+Ethically;Building+and+learning+every+day" alt="Typing animation: Aspiring Developer, Learning Web Development, Exploring Cybersecurity Ethically, Building and learning every day" />
   </a>
 
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=adamarkadan994@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/gmail/D14836" width="52" height="52" alt="Gmail" title="Gmail"
-      style="border-radius:50%; background:#fff; padding:12px; margin:0 8px; box-shadow:0 2px 8px rgba(0,0,0,0.12);" />
-  </a>
+  <br />
 
-  <a href="https://instagram.com/adam_ark15" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="52" height="52" alt="Instagram" title="Instagram"
-      style="border-radius:50%; background:#fff; padding:12px; margin:0 8px; box-shadow:0 2px 8px rgba(0,0,0,0.12);" />
-  </a>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="230" alt="Cat wearing glasses and dancing" />
+
+  <p>
+    <img src="https://img.shields.io/badge/Location-Lebanon%20%26%20US-2C5364?style=for-the-badge" alt="Location: Lebanon and US" />
+    <img src="https://img.shields.io/badge/Focus-Web%20Development-36BCF7?style=for-the-badge" alt="Focus: Web Development" />
+    <img src="https://img.shields.io/badge/Always-Learning-7B2FF7?style=for-the-badge" alt="Always learning" />
+  </p>
 </div>
 
+---
 
-⭐ Feel free to explore my repositories and follow my journey!
+## 👋 About Me
+
+Hi, I'm **Adam** — an aspiring developer and tech enthusiast. I enjoy learning by building, experimenting with new ideas, and improving a little every day. I work on projects using both my phone and laptop.
+
+I'm also curious about cybersecurity and digital safety. I'm focused on learning the fundamentals and practicing responsibly in authorized environments.
+
+- 🌱 Currently learning **HTML, CSS, JavaScript, Git, and programming fundamentals**
+- 🧩 Interested in **web development, cybersecurity, and useful beginner projects**
+- 🎯 Goal: keep practicing and build a portfolio that shows my progress
+
+## 🛠️ Skills I'm Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" alt="HTML, CSS, JavaScript, Git, GitHub, and VS Code icons" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Programming%20Logic-Learning-203A43?style=flat-square" alt="Programming logic: learning" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Fundamentals-203A43?style=flat-square" alt="Cybersecurity fundamentals: learning" />
+</p>
+
+## 🎯 What I'm Working Toward
+
+- Practice coding consistently and strengthen my fundamentals
+- Build real-world projects as I learn
+- Explore web development and technology
+- Learn cybersecurity concepts with an ethical, safety-first approach
+- Grow a portfolio that reflects my journey
+
+## 📂 Projects
+
+Take a look through my repositories for beginner-friendly projects, experiments, and learning work. I'm adding to them as I grow.
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adam12132&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Adam's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adam12132&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages on Adam's public GitHub repositories" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=adam12132&theme=tokyonight&hide_border=true" alt="Adam's GitHub contribution streak" />
+</div>
+
+## 📫 Find Me Online
+
+<p align="center">
+  <a href="https://github.com/adam12132" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=adamarkadan994@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Adam" />
+  </a>
+  <a href="https://instagram.com/adam_ark15" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram profile" />
+  </a>
+</p>
+
+<div align="center">
+  <strong>⭐ Thanks for stopping by — feel free to explore my repositories!</strong>
+  <br /><br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" alt="Decorative animated wave footer" />
+</div>
