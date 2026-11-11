@@ -6,7 +6,6 @@
   </a>
 
   <br />
-
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="230" alt="Cat wearing glasses and dancing" />
 
   <p>
@@ -39,6 +38,18 @@ I'm also curious about cybersecurity and digital safety. I'm focused on learning
   <img src="https://img.shields.io/badge/Cybersecurity-Fundamentals-0B4C7A?style=flat-square" alt="Cybersecurity fundamentals: learning" />
 </p>
 
+## 🎯 What I'm Working Toward
+
+- Practice coding consistently and strengthen my fundamentals
+- Build real-world projects as I learn
+- Explore web development and technology
+- Learn cybersecurity concepts with an ethical, safety-first approach
+- Grow a portfolio that reflects my journey
+
+## 📂 Projects
+
+Take a look through my repositories for beginner-friendly projects, experiments, and learning work. I'm adding to them as I grow.
+
 ## 📊 GitHub Activity
 
 <div align="center">
@@ -50,35 +61,21 @@ I'm also curious about cybersecurity and digital safety. I'm focused on learning
   <img src="https://streak-stats.demolab.com?user=adam12132&theme=tokyonight&hide_border=true" alt="Adam's GitHub contribution streak" />
 </div>
 
-## 📫 Find Me Online
+## 🌐 Let's Connect
 
-<p align="center">You can find me on these platforms:</p>
-
-<table align="center">
-  <tr>
-    <td align="center" width="120">
-      <a href="https://github.com/adam12132" target="_blank" rel="noreferrer">
-        <img src="https://cdn.simpleicons.org/github/36BCF7" width="48" height="48" alt="GitHub" />
-      </a>
-      <br /><strong>GitHub</strong>
-    </td>
-    <td align="center" width="120">
-      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=adamarkadan994@gmail.com" target="_blank" rel="noreferrer">
-        <img src="https://cdn.simpleicons.org/gmail/36BCF7" width="48" height="48" alt="Gmail" />
-      </a>
-      <br /><strong>Email</strong>
-    </td>
-    <td align="center" width="120">
-      <a href="https://instagram.com/adam_ark15" target="_blank" rel="noreferrer">
-        <img src="https://cdn.simpleicons.org/instagram/36BCF7" width="48" height="48" alt="Instagram" />
-      </a>
-      <br /><strong>Instagram</strong>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/adam12132" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/github/181717" width="48" height="48" alt="GitHub" title="GitHub" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:adamarkadan994@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="48" height="48" alt="Email" title="Email" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/adam_ark15" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="48" height="48" alt="Instagram" title="Instagram" />
+  </a>
+</p>
 
 <div align="center">
-  <br />
   <strong>⭐ Thanks for stopping by — feel free to explore my repositories!</strong>
   <br /><br />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2F,50:0B4C7A,100:12A4E8&height=100&section=footer" alt="Decorative blue wave footer" />
