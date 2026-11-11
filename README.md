@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Adam%20Arkadan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Animated wave banner with Adam Arkadan's name" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2F,50:0B4C7A,100:12A4E8&height=200&section=header&text=Adam%20Arkadan&fontSize=50&fontColor=36BCF7&animation=fadeIn&fontAlignY=35" alt="Blue animated wave banner with Adam Arkadan's name" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Developer;Learning+Web+Development;Exploring+Cybersecurity+Ethically;Building+and+learning+every+day" alt="Typing animation: Aspiring Developer, Learning Web Development, Exploring Cybersecurity Ethically, Building and learning every day" />
@@ -10,9 +10,9 @@
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="230" alt="Cat wearing glasses and dancing" />
 
   <p>
-    <img src="https://img.shields.io/badge/Location-Lebanon%20%26%20US-2C5364?style=for-the-badge" alt="Location: Lebanon and US" />
-    <img src="https://img.shields.io/badge/Focus-Web%20Development-36BCF7?style=for-the-badge" alt="Focus: Web Development" />
-    <img src="https://img.shields.io/badge/Always-Learning-7B2FF7?style=for-the-badge" alt="Always learning" />
+    <img src="https://img.shields.io/badge/Location-Lebanon%20%26%20US-0B4C7A?style=for-the-badge" alt="Location: Lebanon and US" />
+    <img src="https://img.shields.io/badge/Focus-Web%20Development-168AD0?style=for-the-badge" alt="Focus: Web Development" />
+    <img src="https://img.shields.io/badge/Always-Learning-36BCF7?style=for-the-badge" alt="Always learning" />
   </p>
 </div>
 
@@ -35,8 +35,8 @@ I'm also curious about cybersecurity and digital safety. I'm focused on learning
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Programming%20Logic-Learning-203A43?style=flat-square" alt="Programming logic: learning" />
-  <img src="https://img.shields.io/badge/Cybersecurity-Fundamentals-203A43?style=flat-square" alt="Cybersecurity fundamentals: learning" />
+  <img src="https://img.shields.io/badge/Programming%20Logic-Learning-0B4C7A?style=flat-square" alt="Programming logic: learning" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Fundamentals-0B4C7A?style=flat-square" alt="Cybersecurity fundamentals: learning" />
 </p>
 
 ## 🎯 What I'm Working Toward
@@ -64,20 +64,34 @@ Take a look through my repositories for beginner-friendly projects, experiments,
 
 ## 📫 Find Me Online
 
-<p align="center">
-  <a href="https://github.com/adam12132" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=adamarkadan994@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Adam" />
-  </a>
-  <a href="https://instagram.com/adam_ark15" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram profile" />
-  </a>
-</p>
+<p align="center">You can find me on these platforms:</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <a href="https://github.com/adam12132" target="_blank" rel="noreferrer">
+        <img src="https://cdn.simpleicons.org/github/36BCF7" width="48" height="48" alt="GitHub" />
+      </a>
+      <br /><strong>GitHub</strong>
+    </td>
+    <td align="center" width="120">
+      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=adamarkadan994@gmail.com" target="_blank" rel="noreferrer">
+        <img src="https://cdn.simpleicons.org/gmail/36BCF7" width="48" height="48" alt="Gmail" />
+      </a>
+      <br /><strong>Email</strong>
+    </td>
+    <td align="center" width="120">
+      <a href="https://instagram.com/adam_ark15" target="_blank" rel="noreferrer">
+        <img src="https://cdn.simpleicons.org/instagram/36BCF7" width="48" height="48" alt="Instagram" />
+      </a>
+      <br /><strong>Instagram</strong>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
+  <br />
   <strong>⭐ Thanks for stopping by — feel free to explore my repositories!</strong>
   <br /><br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" alt="Decorative animated wave footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A2F,50:0B4C7A,100:12A4E8&height=100&section=footer" alt="Decorative blue wave footer" />
 </div>
