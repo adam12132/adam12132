@@ -39,18 +39,6 @@ I'm also curious about cybersecurity and digital safety. I'm focused on learning
   <img src="https://img.shields.io/badge/Cybersecurity-Fundamentals-0B4C7A?style=flat-square" alt="Cybersecurity fundamentals: learning" />
 </p>
 
-## 🎯 What I'm Working Toward
-
-- Practice coding consistently and strengthen my fundamentals
-- Build real-world projects as I learn
-- Explore web development and technology
-- Learn cybersecurity concepts with an ethical, safety-first approach
-- Grow a portfolio that reflects my journey
-
-## 📂 Projects
-
-Take a look through my repositories for beginner-friendly projects, experiments, and learning work. I'm adding to them as I grow.
-
 ## 📊 GitHub Activity
 
 <div align="center">
